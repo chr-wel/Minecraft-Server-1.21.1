@@ -1,5 +1,7 @@
 # Minecraft-Server-1.21.1
 
+  A private Minecraft server for my freinds and I to play on.
+
 ## Download Necessary Files
 
 ### Java 
