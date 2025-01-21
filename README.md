@@ -4,7 +4,8 @@
 
 ### Java 
 
-  <br/> Minecraft requires Java 16 or newer to run.
-  <br/> I used JDK 21.
+  Minecraft requires Java 16 or newer to run.
+    <br/> 
+  I used JDK 21.
 
   https://www.oracle.com/java/technologies/downloads/#java21
