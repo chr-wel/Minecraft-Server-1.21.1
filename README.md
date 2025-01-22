@@ -32,12 +32,15 @@ https://www.microsoft.com/en-us/software-download/windows10
   <br/>
   <br/>
  ### 1.21.1 server jar file
- https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-1
+  https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-1
 
 
 
  ## Set up the Server
 
- Run the .jar file to generate the necessary server files
-
+ ### Run the server .jar file 
+  This will generate the necessary server files.
+ 
+### Accept the EULA
+ ![Image](https://github.com/user-attachments/assets/298671a4-1f70-4555-8fa1-7759e63ac6df)
  
