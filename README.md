@@ -12,7 +12,7 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 ### Create the VM
 
-   ![proxmoxVM](images\Minecraft1.21.1\proxmoxVM.PNG)
+   ![proxmoxVM](E:\Github\Minecraft-Server-1.21.1\proxmoxVM.PNG)
   
   ## Download Necessary Files
 
