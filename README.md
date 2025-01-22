@@ -2,6 +2,7 @@
 
  A private Minecraft server for my freinds and I to play on.
     <br/>
+    <br/>
  Running on a Windows Virtual Machine under a Proxmox Virtual Environment.
 
  ## Setting up the virtual machine
@@ -28,6 +29,7 @@ https://www.microsoft.com/en-us/software-download/windows10
     <br/> 
  I used JDK 21. 
  https://www.oracle.com/java/technologies/downloads/#java21
+  <br/>
   <br/>
  Download the 1.21.1 server .jar file
 
