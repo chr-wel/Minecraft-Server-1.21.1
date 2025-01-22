@@ -56,7 +56,6 @@ https://www.microsoft.com/en-us/software-download/windows10
   - After they join the server their username and UUID will appear in the usercache file.
   - Use an online UUID lookup tool. https://mcuuid.net/
   <br/>
- ![Image](https://github.com/user-attachments/assets/c482d5de-e909-445d-8c63-31f053fb55c1)
  
 
  
