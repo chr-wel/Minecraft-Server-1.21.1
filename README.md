@@ -13,7 +13,13 @@ https://www.microsoft.com/en-us/software-download/windows10
 ### Create the VM
 
 ![prox](https://github.com/user-attachments/assets/bb06b195-e778-45cc-be25-90d27c46d8ca)
-  
+
+### Select the Windows 10 iso 
+
+### Configure the options for the VM
+
+
+
   ## Download Necessary Files
 
   ### Java 
@@ -21,5 +27,14 @@ https://www.microsoft.com/en-us/software-download/windows10
  Minecraft requires Java 16 or newer to run.
     <br/> 
  I used JDK 21. 
-
  https://www.oracle.com/java/technologies/downloads/#java21
+  <br/>
+ Download the 1.21.1 server .jar file
+
+
+
+ ## Set up the Server
+
+ Run the .jar file to generate the necessary server files
+
+ 
