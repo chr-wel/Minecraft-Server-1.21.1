@@ -49,14 +49,19 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 ### Add Users to Whitelist
  Leaving the whitelist file blank will allow anybody to join, so it is important to configure this in the case of a private server so you do not have any unwanted players joining.
- <br/>
+  <br/>
+  <br/>
  ![Image](https://github.com/user-attachments/assets/0fa56acd-0c3a-4ca0-a6fc-be59bff17989)
   <br/>
  The UUID for the user can be found in a couple different ways.
   - After they join the server their username and UUID will appear in the usercache file.
   - Use an online UUID lookup tool. https://mcuuid.net/
   <br/>
+
+
+ ## Set Port Forwarding Rule
  
+ ### Forward Both TCP & UDP Port 25565
 
  
  
