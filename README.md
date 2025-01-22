@@ -10,7 +10,9 @@
 
 https://www.microsoft.com/en-us/software-download/windows10
 
-###
+### Create the VM
+
+   ![proxmoxVM](Minecraft1.21.1\proxmoxVM)
   
   ## Download Necessary Files
 
