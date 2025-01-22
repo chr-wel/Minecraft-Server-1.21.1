@@ -31,7 +31,8 @@ https://www.microsoft.com/en-us/software-download/windows10
  https://www.oracle.com/java/technologies/downloads/#java21
   <br/>
   <br/>
- Download the 1.21.1 server .jar file
+ ### 1.21.1 server jar file
+ https://www.minecraft.net/en-us/article/minecraft-java-edition-1-21-1
 
 
 
