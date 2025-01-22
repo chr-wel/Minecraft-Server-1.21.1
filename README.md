@@ -44,10 +44,20 @@ https://www.microsoft.com/en-us/software-download/windows10
  
 ### Accept the EULA
  ![Image](https://github.com/user-attachments/assets/298671a4-1f70-4555-8fa1-7759e63ac6df)
+  <br/>
  ![Image](https://github.com/user-attachments/assets/a0e3f602-9c11-4e97-8d89-59535600bb83)
 
 ### Add Users to Whitelist
  Leaving the whitelist file blank will allow anybody to join, so it is important to configure this in the case of a private server so you do not have any unwanted players joining.
+ <br/>
  ![Image](https://github.com/user-attachments/assets/0fa56acd-0c3a-4ca0-a6fc-be59bff17989)
- The format is as follows
+  <br/>
+ The UUID for the user can be found in a couple different ways.
+  - After they join the server their username and UUID will appear in the usercache file.
+  - Use an online UUID lookup tool. https://mcuuid.net/
+  <br/>
+ ![Image](https://github.com/user-attachments/assets/c482d5de-e909-445d-8c63-31f053fb55c1)
+ 
+
+ 
  
