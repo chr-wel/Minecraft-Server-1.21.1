@@ -26,7 +26,8 @@ https://www.microsoft.com/en-us/software-download/windows10
   ### Java 
 
  Minecraft requires Java 16 or newer to run.
-    <br/> 
+  <br/> 
+  <br/>
  I used JDK 21. 
  https://www.oracle.com/java/technologies/downloads/#java21
   <br/>
@@ -43,4 +44,8 @@ https://www.microsoft.com/en-us/software-download/windows10
  
 ### Accept the EULA
  ![Image](https://github.com/user-attachments/assets/298671a4-1f70-4555-8fa1-7759e63ac6df)
+ ![Image](https://github.com/user-attachments/assets/a0e3f602-9c11-4e97-8d89-59535600bb83)
+
+### Add Users to Whitelist
+Leaving the whitelist file blank will allow anybody to join, so it is important to configure this in the case of a private server so you do not have any unwanted players joining.
  
