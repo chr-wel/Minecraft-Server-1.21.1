@@ -12,7 +12,7 @@ https://www.microsoft.com/en-us/software-download/windows10
 
 ### Create the VM
 
-![proxmoxVM](![Image](https://github.com/user-attachments/assets/bb06b195-e778-45cc-be25-90d27c46d8ca))
+![prox](https://github.com/user-attachments/assets/bb06b195-e778-45cc-be25-90d27c46d8ca))
   
   ## Download Necessary Files
 
