@@ -47,5 +47,7 @@ https://www.microsoft.com/en-us/software-download/windows10
  ![Image](https://github.com/user-attachments/assets/a0e3f602-9c11-4e97-8d89-59535600bb83)
 
 ### Add Users to Whitelist
-Leaving the whitelist file blank will allow anybody to join, so it is important to configure this in the case of a private server so you do not have any unwanted players joining.
+ Leaving the whitelist file blank will allow anybody to join, so it is important to configure this in the case of a private server so you do not have any unwanted players joining.
+ ![Image](https://github.com/user-attachments/assets/0fa56acd-0c3a-4ca0-a6fc-be59bff17989)
+ The format is as follows
  
